@@ -1,4 +1,4 @@
-                                        Amanzon Sales Data Analysis Brief Description And thier Information
+                         Amanzon Sales Data Analysis Brief Description And thier Information
 
 
 Introduction-:
