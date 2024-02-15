@@ -46,9 +46,6 @@ Conclusion-:
 4. Order priority seems to have a discernible effect on revenue and profit, suggesting that prioritizing certain orders could lead to higher profitability. Further investigation into the factors influencing order priority decisions is warranted.
 5. Despite the strong performance in certain regions and product categories, there is still potential for growth. Exploring new markets, diversifying product offerings, and optimizing sales channels and order management processes can further enhance profitability.
 
-![image](https://github.com/Gautam712/Unified-Intership-Project/assets/117540211/0df4ba4b-3a2d-443d-8014-1a50cec45af4)
-
-
 Repository Contents-
 Data: Contains the original dataset used for analysis (sales_data.csv).
 Notebooks: Jupyter notebooks containing the analysis code (Amazon_sales_data_analysis.ipynb).
